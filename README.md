@@ -31,7 +31,7 @@ Ce projet est une application de gestion de tâches (ToDo List) créée avec **S
 1. **Cloner le projet :**
 
 ```bash
-git clone https://github.com/votre-repo/todolist-symfony-react.git
+git clone https://github.com/naoydu54/todolist.git
 cd todolist-symfony-react
 ```
 
@@ -124,12 +124,7 @@ npm encore dev
 npm encore production
 ```
 
-- **Exécuter les tests (s'il y a des tests PHPUnit ou Jest)** :
 
-```bash
-php bin/phpunit  # Pour les tests PHP
-yarn test        # Pour les tests React
-```
 
 ## Structure du projet
 
